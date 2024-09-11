@@ -1,0 +1,39 @@
+body {
+    background-color: #F9F9ED;
+    font-size: 1.5vw;
+}
+
+body > header {
+    background-color: #DBF4A7 ;
+    color: white;
+}
+
+#logo {
+    margin: 0px;
+    padding: 6px;
+    font-family: "Cinzel", helvetica;
+    box-shadow: 5px 5px 10px 2.5px #1B512D;
+    width: 30%;
+}
+
+.navbutton {
+    color: white;
+    text-decoration: none;
+}
+
+body > main > article {
+    width: 70%;
+    margin: auto;
+}
+
+body > footer {
+    background-color: #DBF4A7;
+}
+footer > h2 {
+    margin: auto;
+}
+
+img {
+    border-radius: 100%;
+    
+}
